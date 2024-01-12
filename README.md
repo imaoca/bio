@@ -21,7 +21,7 @@ Author of technical books and articles
 ## Embedded Technology Exhibit & Presentation
 ## Wireless Japan Exhibit & Presentation
 ## SEDEC Exhibit & Presentation
-
+<br>
 ## Bio Japanese
 ## 今岡通博
 ~~~
