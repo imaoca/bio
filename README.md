@@ -38,6 +38,19 @@ Author of technical books and articles
 ## セキュリティ・キャンプ講師 2015から2022
 ## セキュリティ・ネクストキャンプ講師2019年より
 ## Sechack365 トレーナー 2019年より
+### 2023
+~~~
+N3・N9『オリジナルCPUを創る』
+担当講師
+今岡 通博
+分野・キーワード
+Verilog-HDL、CPU、ModelSym、ステートマシン、FPGA
+
+講義概要
+オリジナル4ビットCPU（DL166）を提示し、このCPUを記述したVerilog-HDLのソースコードを追うことでCPUの内部を理解します。その後、PC上で動作するシミュレターを用いてCPUの挙動を動的に解析します。
+演習ではこの4ビットCPUをベースに8ビットCPUにアップグレードする演習に挑戦してもらいます。
+これらにより、CPUに潜む様々な脆弱性を認識するための視点を提供します。
+~~~
 ## Blackhat USA Arsenal Presenter 2020,2021,2022
 ## Blackhat Euro Arsenal Presenter 2022 
 ## デザインフェスタ2024　出展予定
