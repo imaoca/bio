@@ -16,6 +16,20 @@ Author of technical books and articles
 ## Security Next Camp Instructor from 2019
 ## Sechack365 Trainer from 2019
 ## Blackhat USA Arsenal Presenter 2020,2021,2022
+~~~
+ARP covert channel attacks by 8bit microcomputer
+Michihiro Imaoka  
+Location:  Station 6
+Date: Thursday, August 6 | 2:00pm-3:00pm
+Track:  Internet of Things
+Session Type: Arsenal
+
+Introduces a method of embedding information in the padding part of ARP and performing secret communication with only one small 8-bit microcomputer. The transmitter uses an 8-bit microcomputer called Atmega328P. A 10BASE-T Ethernet frame is generated using only the GPIO of the microcomputer without using a dedicated chip such as an Ethernet controller. By using this method, it is possible to perform a covert channel attack with a smaller and cheaper method than the conventional method.
+
+Since this attack can be performed with a single inexpensive and small microcomputer, it can be hidden and operated inside devices that can be connected to various networks. This lecture introduces some attack scenarios, discusses various attack methods that use this attack method, and discusses their defense methods.
+
+https://www.blackhat.com/us-20/arsenal/schedule/#arp-covert-channel-attacks-by-bit-microcomputer-21096
+~~~
 ## Blackhat Euro Arsenal Presenter 2022 
 ## Design Festa 2024 Exhibitor to be exhibited
 ## Embedded Technology Exhibit & Presentation
