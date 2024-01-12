@@ -9,6 +9,12 @@ Self-employed
 Contracted development of software and hardware
 Author of technical books and articles
 ~~~
+## Contact
+~~~
+imaoca@gmail.com
+https://www.facebook.com/imaoka.micihihiro
+https://github.com/imaoca/
+~~~
 
 ## Itmedia online articles
 ## Microsoft MVP 2014-2023
