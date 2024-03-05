@@ -3,6 +3,7 @@
 ## Bio
 
 ## Michihiro Imaoka
+![](face.jpg)
 ~~~
 Born in 1962　and lives in Ehime, Japan
 Self-employed
