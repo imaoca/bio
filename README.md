@@ -3,7 +3,7 @@
 ## Bio
 
 ## Michihiro Imaoka
-![](face.jpg)
+![](faceSmall.jpg)
 ~~~
 Born in 1962　and lives in Ehime, Japan
 Self-employed
@@ -23,7 +23,7 @@ https://github.com/imaoca/
 ## Security Next Camp Instructor from 2019
 ## Sechack365 Trainer from 2019
 ## Blackhat USA Arsenal Presenter 2020,2021,2022
-### 2020
+### 2020 ARP covert channel attacks by 8bit microcomputer
 ~~~
 ARP covert channel attacks by 8bit microcomputer
 Michihiro Imaoka  
