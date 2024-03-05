@@ -18,6 +18,8 @@ https://github.com/imaoca/
 ~~~
 
 ## Itmedia online articles
+https://www.itmedia.co.jp/author/208685/
+
 ## Microsoft MVP 2014-2023
 ## Security Camp Instructor 2015-2022
 ## Security Next Camp Instructor from 2019
