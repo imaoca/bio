@@ -1,6 +1,4 @@
-# bio
-
-## Bio
+# Biolography
 
 ## Michihiro Imaoka
 ![](faceSmall.jpg)
@@ -47,7 +45,7 @@ https://www.blackhat.com/us-20/arsenal/schedule/#arp-covert-channel-attacks-by-b
 ## SEDEC Exhibit & Presentation
 <br>
 
-## Bio Japanese
+## Biolography in Japanese
 ## 今岡通博
 ~~~
 愛媛県出身、愛媛県在住
@@ -58,7 +56,9 @@ https://www.blackhat.com/us-20/arsenal/schedule/#arp-covert-channel-attacks-by-b
 ~~~
 
 ## Itmedia のオンライン記事
-## Microsoft MVP 2014-2023
+https://www.itmedia.co.jp/author/208685/
+
+## Microsoft MVP 2014-2023B
 ## セキュリティ・キャンプ講師 2015から2022
 ## セキュリティ・ネクストキャンプ講師2019年より
 ## Sechack365 トレーナー 2019年より
