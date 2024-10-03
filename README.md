@@ -123,3 +123,5 @@ KAKEN - 福祉無線ネットワークによる視覚・聴覚障害者のコミ
 ~~~
 ## karaoke
 https://github.com/imaoca/karaoke/blob/main/README.md
+## ennichi2023
+https://github.com/imaoca/ennichi2023
