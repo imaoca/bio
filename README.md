@@ -128,7 +128,7 @@ https://github.com/imaoca/ennichi2023
 
 ## Games
 ### Jerryfish
-https://scratch.mit.edu/projects/16722408/
+https://scratch.mit.edu/projects/16722408/fullscreen/
 
 ### Cannon
 https://scratch.mit.edu/projects/16480523/
