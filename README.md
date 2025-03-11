@@ -131,10 +131,10 @@ https://github.com/imaoca/ennichi2023
 https://scratch.mit.edu/projects/16722408/fullscreen/
 
 ### Cannon
-https://scratch.mit.edu/projects/16480523/
+https://scratch.mit.edu/projects/16480523/fullscreen/
 
 ### Attack Tanks
-https://scratch.mit.edu/projects/16509722/
+https://scratch.mit.edu/projects/16509722/fullscreen/
 
 ## Dogfight
-https://scratch.mit.edu/projects/16553013/
+https://scratch.mit.edu/projects/16553013/fullscreen/
