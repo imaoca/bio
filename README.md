@@ -141,3 +141,6 @@ https://scratch.mit.edu/projects/16553013/fullscreen/
 
 ## Attack Tanks 2
 https://scratch.mit.edu/projects/1145424248/fullscreen/
+
+# 論文
+https://drive.google.com/file/d/1igbvkQQrmGs1QWzYUiG2r1x0J3KEiXCr/view?usp=sharing
