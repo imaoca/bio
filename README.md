@@ -79,7 +79,7 @@ Verilog-HDL、CPU、ModelSym、ステートマシン、FPGA
 ~~~
 ## Blackhat USA Arsenal Presenter 2020,2021,2022
 ## Blackhat Euro Arsenal Presenter 2022 
-## デザインフェスタ2024　出展予定
+## デザインフェスタ2024　出展
 ## Embedded Technology 出展・講演
 ## Wireless Japan　出展・講演
 ## SEDEC 　出展・講演
